@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "70204540042",
+    "firebase_url": "https://icsc-564b5-default-rtdb.firebaseio.com",
+    "project_id": "icsc-564b5",
+    "storage_bucket": "icsc-564b5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:70204540042:android:ccbe2e56fec413d6649973",
+        "android_client_info": {
+          "package_name": "com.icsc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "70204540042-qq0qqoqfclgiro55dqfe15l6bkor6mho.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASD-KMLqS4QMxJN2OZWAgsMrdF7WglO6M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "70204540042-qq0qqoqfclgiro55dqfe15l6bkor6mho.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
